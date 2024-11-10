@@ -1,5 +1,8 @@
 ## Exercise_2-UiPath-Welcome_message_in_Message_box_with_IF_Condition-and-Switch_case
-
+```
+Name: THIRISHA S
+Reg No: 212222230160
+```
 ## Aim:
 
 To create a UiPath automation process that takes the user's name as input and displays personalized welcome messages based on the input using a IF condition and Switch case activity.
