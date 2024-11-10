@@ -79,13 +79,11 @@ Click on Run from the top-right corner to execute the workflow.
 
 ## UiPath WorkFlow:
 
-![alt text](<img/Screenshot 2024-09-12 114316.png>)
-![alt text](<img/Screenshot 2024-09-12 114331.png>)
-![alt text](<img/Screenshot 2024-09-12 114355.png>)
-![alt text](<img/Screenshot 2024-09-12 114409.png>)
-![alt text](<img/Screenshot 2024-09-12 114421.png>)
-![alt text](<img/Screenshot 2024-09-12 114443.png>)
-![alt text](<img/Screenshot 2024-09-12 114453.png>)
+![Screenshot 2024-09-12 114316](https://github.com/user-attachments/assets/39b63cde-5889-4afa-82fb-2c33b9b4e3e2)
+![Screenshot 2024-09-12 114331](https://github.com/user-attachments/assets/d7cab2b7-6fdf-42c9-9fa9-c1f50b236992)
+![Screenshot 2024-09-12 114355](https://github.com/user-attachments/assets/7ec2ffa6-8fac-4b1f-aa4b-516ff2fd6c2e)
+![Screenshot 2024-09-12 114443](https://github.com/user-attachments/assets/96be57c1-fd34-4656-882a-2a751cb82934)
+![Screenshot 2024-09-12 114453](https://github.com/user-attachments/assets/99f35a02-4a8d-4e16-89fb-596ad9d4da03)
 
 ## Result:
 
